@@ -20,4 +20,10 @@
 - Reasearching Solutions
 - Problem Solving
 - Review Code
-- Getting your first 
+- Getting your first JOB AS A FRONTEND DEVELOPER
+
+## Introducing The SCRIMBA LEARNING PLATFORM 
+    - SCRIMBA IS UNIQUE FOR ITS FEATURES WITH IT HAVE A INTERACTIVE VIDEOS AND WHICH ARE THEMSELVES A CODE EDITOR WHENEVER YOU WANT.🧑‍💻 
+
+## Introducing The SCRIMBA DISCORD Community
+    - Introducing the SCCRIMBA Discord Community. 

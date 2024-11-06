@@ -1,0 +1,38 @@
+body{
+    margin: 20px;
+    padding: 0;
+    /* font-family: "JetBrains Mono", monospace;   */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.avatar{
+    width: 150px;
+
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    display: flex;
+    margin: 0 auto;
+
+    color: #2b2839;
+    background-color:#ddebf8 ;
+    border-bottom: 8px solid #d8cefe;
+}
+
+.center{
+    text-align: center;
+}
+
+  /*
+    Challenge:
+    Give the card a width of 400px wide and center it.
+    */
+
+
+    

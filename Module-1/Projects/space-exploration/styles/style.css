@@ -1,0 +1,12 @@
+
+
+body{
+    color: white;
+    background-image: url("images/space.jpg");
+    background-size: cover;
+}
+
+
+.apply-btn{
+    display: flex;
+}

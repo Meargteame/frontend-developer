@@ -1,0 +1,60 @@
+
+
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: "Happy Monkey", system-ui;
+    color: #ffffff;
+    background-color: #a2d2ff ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+}
+
+#main-image{
+    width: 150px;
+    border-radius:50% ;
+    border: 5px solid  #EFB0C9;
+}
+
+
+
+#bday-age{
+    background-color: #EFB0C9;
+    border-radius:8px ;
+    padding: 8px 12px 8px 12px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+#bday-date{
+    margin: 0;
+    background-color: #EFB0C9;
+    border-radius:8px ;
+    padding: 8px 12px 8px 12px;
+
+
+}
+
+.header{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+/*
+Challenge:
+1. Create a "gift-section" <div> that will wrap
+   all the elements for the first gift.
+2. Add the <h2>, <h3>, and <img> elements, and
+   give all of them their own classes.
+3. Style the elements according to the design.
+
+PS: the image should be 400px wide.
+*/
